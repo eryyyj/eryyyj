@@ -6,7 +6,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> ![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards) </p>
+<p align="left">  </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eryyyj&show_icons=true&locale=en&layout=compact" alt="eryyyj" /></p>
 
