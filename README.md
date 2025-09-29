@@ -15,13 +15,15 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="60" alt="pandas logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pytorch" height="60" alt="pytorch logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="tensorflow logo"  />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="60" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="60" alt="pandas logo"  />
+  <img width="12" />
 </div>
 
 <h2 align="center"> Currently Learning </h2>
