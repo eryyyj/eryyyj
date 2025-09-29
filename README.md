@@ -52,14 +52,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eryyyj/eryyyj/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eryyyj/eryyyj/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eryyyj/eryyyj/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="center">
   <img height="200" src="https://media.tenor.com/hmDMrE1yMAkAAAAM/when-the-coding-when-the.gif"  />
 </div>
