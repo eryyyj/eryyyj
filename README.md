@@ -1,7 +1,7 @@
 <h1 align="center">Hi! My name is Ery Jay P. Pisalbon </h1>
 
 ###
-
+<h2 align="center"> Skills </h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
   <img width="12" />
@@ -39,7 +39,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="60" alt="postman logo"  />
+  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
   <img width="12" />
 </div>
 
