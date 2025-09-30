@@ -1,7 +1,7 @@
 <h1 align="center">Hi! My name is Ery Jay P. Pisalbon </h1>
 
 ###
-<h2 align="center"> Skills </h2>
+<h2 align="center"> Tech Stack </h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
   <img width="12" />
