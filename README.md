@@ -65,14 +65,6 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ery-jay-pisalbon-69991b253/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eryyyj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <!-- <img src="https://streak-stats.demolab.com?user=eryyyj&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=eryyyj&radius=16&theme=tokyo-night&area=true&order=5&area_color=#FFA500&line=#FFA500" height="300" alt="activity-graph graph"  />
