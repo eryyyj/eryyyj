@@ -41,10 +41,9 @@
 </div>
 
 <h2 align="center"> Currently Learning </h2>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
   <img width="12" />
-<div align="center">
-
 </div>
 
 <h2 align="center"> Interested In </h2>
