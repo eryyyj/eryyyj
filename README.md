@@ -67,7 +67,6 @@
 
 ###
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=eryyyj&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=eryyyj&radius=16&theme=tokyo-night&area=true&order=5&area_color=#FFA500&line=#FFA500" height="300" alt="activity-graph graph"  />
 </div>
 
